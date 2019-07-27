@@ -2,7 +2,7 @@
 
 ## Tải file cài đặt
 
-Nếu bạn chưa có file cài đặt I2G Local, vui lòng tải xuống [tại đây](https://bitly.vn/5s-o). Vui lòng tải bản cập nhật mới nhất để có được tất cả tính năng mới nhất của I2G.
+Nếu bạn chưa có file cài đặt I2G Local, vui lòng tải xuống [tại đây](https://drive.google.com/file/d/1TArIz1CLvZJ1MMGLuipX-T9GvJajw-52/view?usp=sharing). Vui lòng tải bản cập nhật mới nhất để có được tất cả tính năng mới nhất của I2G.
 
 ## Cài đặt
 
