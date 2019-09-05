@@ -34,11 +34,11 @@ Khởi tạo tài khoản I2G Local, truy cập **C:\Program Files \(x86\)\Docke
 
 Click **initdb.bat** để tạo tài khoản I2G Local, sau khi chạy xong, thông tin tài khoản phía dưới đã được tạo.
 
-`Tài khoản I2G Local:  
-      username: i2glocal  
-      password: 1`
+`Tài khoản I2G Local:    
+username: i2glocal    
+password: 1`
 
-Mở trình duyệt Google Chrome/Firefox, truy cập http://localhost để vào ứng dụng. Sử dụng tài khoản phía trên để đăng nhập. Sẽ mất khoảng 5-10 phút để khởi tạo dữ liệu ban đầu.
+Mở trình duyệt Google Chrome/Firefox, truy cập [http://localhost](http://localhost) để vào ứng dụng. Sử dụng tài khoản phía trên để đăng nhập. Sẽ mất khoảng 5-10 phút để khởi tạo dữ liệu ban đầu.
 
 ![](.gitbook/assets/9.png)
 
